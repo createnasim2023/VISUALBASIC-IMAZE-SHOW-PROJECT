@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+imazesize
+</name>
+</assembly>
+<members>
+<member name="P:imazesize.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources._122">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.realme_7i_frp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.redmi_8a_pro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.redmi_9a_frp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.redmi_note_7_pro_mi_account_unlock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.REDMI6A_FRP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.samsun_j701f_reset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.samsung_j2_ace_sm_g532g_u1_root_download_mode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.samsung_j2_core_sm_j260g_frp_remove_new_trick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.SAMSUNG_J2_SM_G532_U1_FRP_COM_MODE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.samsung_m01s_pattern_frp_remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.samsung_sm_j701f_ad_mode_frp_remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.SMARTPHONE_LOGO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.smj260_frp_remove_by_unlock_tool">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:imazesize.My.Resources.Resources.tecno_spark_ke6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:imazesize.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
